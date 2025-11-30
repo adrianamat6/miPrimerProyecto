@@ -1,2 +1,3 @@
 Objetivo 1: Dominar el desarrollo tanto Frontend como Backend para crear aplicaciones web completas.
 Objetivo 2: Aprender a desplegar aplicaciones en la nube y gestionar bases de datos correctamente.
+Objetivo 3: Mejorar mis habilidades de trabajo en equipo usando control de versiones con Git.
