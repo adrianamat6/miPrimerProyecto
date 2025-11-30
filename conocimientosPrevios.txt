@@ -1,3 +1,6 @@
 Experiencia en Ingeniería: Uso avanzado de MATLAB y GAMS para simulación de reactores y optimización de procesos estocásticos.
 
-Desarrollo Web: Conocimientos de maquetación con HTML/CSS responsive adquirido en curso anterior.  
+Desarrollo Web: Conocimientos de maquetación con HTML/CSS responsive adquirido en curso anterior. 
+
+ 
+Programación General: Dominio de Python para resolución de problemas matemáticos, usando librerías como Pyomo y entornos Jupyter Notebook.
